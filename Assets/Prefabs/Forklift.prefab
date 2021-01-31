@@ -389,8 +389,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cfuStatus: PSXEffects v1.18 - up to date.
   sections: 01010100
-  customRes: {x: 1150, y: 578}
-  resolutionFactor: 1
+  customRes: {x: 383, y: 192}
+  resolutionFactor: 3
   limitFramerate: 50
   skipFrames: 1
   affineMapping: 1
@@ -1459,8 +1459,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cfuStatus: PSXEffects v1.18 - up to date.
   sections: 01010100
-  customRes: {x: 1150, y: 578}
-  resolutionFactor: 1
+  customRes: {x: 383, y: 192}
+  resolutionFactor: 3
   limitFramerate: 50
   skipFrames: 1
   affineMapping: 1
